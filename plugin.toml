@@ -1,0 +1,7 @@
+name = "dracula-theme-unofficial"
+display-name = "Dracula Theme Unofficial"
+description = "The Iconic Dracula Theme"
+version = "0.1.0"
+author = "Deco Moraes"
+repository = "decomoraes/lapse_dracula_unofficial"
+themes = ["dracula.toml"]
